@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is FA6A-2C92
+
+ Directory of C:\Users\Muhammad Nissar\OneDrive\Desktop\My Project Git
+
+12-05-2022  12:22    <DIR>          .
+12-05-2022  12:22    <DIR>          ..
+12-05-2022  12:22                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  138,470,924,288 bytes free
